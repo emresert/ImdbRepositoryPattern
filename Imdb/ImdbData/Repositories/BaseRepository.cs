@@ -75,29 +75,29 @@ namespace ImdbData.Repositories
             Save();
         }
 
-
-
-        /*------------- Helper --------- */
-
-        //public IEnumerable<T> FindLink(Expression<Func<T,bool>> predicate)
-        //{
-        //    return db.Set<T>().Where(predicate).ToList();
-        //}
-
-        //public void Update(T obj)
-        //{
-        //    table.Attach(obj);
-        //    db.Entry(obj).State = EntityState.Modified;
-        //}
-
-        //public IEnumerable<T> SelectAll()
-        //{
-        //    return table.ToList();
-        //}
-
-        //public T SelectByID(object id)
-        //{
-        //    return table.Find(id);
-        //}
     }
 }
+
+
+/*------------- Helper --------- */
+
+//public IEnumerable<T> FindLink(Expression<Func<T,bool>> predicate)
+//{
+//    return db.Set<T>().Where(predicate).ToList();
+//}
+
+//public void Update(T obj)
+//{
+//    table.Attach(obj);
+//    db.Entry(obj).State = EntityState.Modified;
+//}
+
+//public IEnumerable<T> SelectAll()
+//{
+//    return table.ToList();
+//}
+
+//public T SelectByID(object id)
+//{
+//    return table.Find(id);
+//}

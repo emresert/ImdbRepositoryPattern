@@ -21,11 +21,12 @@ namespace ImdbData.Interfaces
 
 
 
-        /*------------- Helper --------- */
-
-        //  void Update(T obj);
-        //  IEnumerable<T> SelectAll();
-        //  T SelectByID(object id);
-        //  IEnumerable<T> FindLink(Expression<Func<T,bool>> predicate);
+     
     }
 }
+/*------------- Helper --------- */
+
+//  void Update(T obj);
+//  IEnumerable<T> SelectAll();
+//  T SelectByID(object id);
+//  IEnumerable<T> FindLink(Expression<Func<T,bool>> predicate);
