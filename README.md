@@ -1,3 +1,3 @@
 ## Imdb Repository Pattern Application using C#
 
-Open [https://github.com/emresert/ImdbUnitOfWork](emresert/ImdbUnitOfWork) to reach Unit Of Work version of the project.
+Open [emresert/ImdbUnitOfWork](https://github.com/emresert/ImdbUnitOfWork) to reach Unit Of Work version of the project.
