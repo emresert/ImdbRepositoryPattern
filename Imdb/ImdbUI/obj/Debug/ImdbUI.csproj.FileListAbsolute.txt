@@ -1,0 +1,79 @@
+C:\Users\BA\Desktop\Repository\Imdb\ImdbUI\bin\Debug\App.config
+C:\Users\BA\Desktop\Repository\Imdb\ImdbUI\bin\Debug\ImdbUI.exe.config
+C:\Users\BA\Desktop\Repository\Imdb\ImdbUI\bin\Debug\ImdbUI.exe
+C:\Users\BA\Desktop\Repository\Imdb\ImdbUI\bin\Debug\ImdbUI.pdb
+C:\Users\BA\Desktop\Repository\Imdb\ImdbUI\bin\Debug\EntityFramework.dll
+C:\Users\BA\Desktop\Repository\Imdb\ImdbUI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\BA\Desktop\Repository\Imdb\ImdbUI\bin\Debug\HtmlAgilityPack.dll
+C:\Users\BA\Desktop\Repository\Imdb\ImdbUI\bin\Debug\ImdbData.dll
+C:\Users\BA\Desktop\Repository\Imdb\ImdbUI\bin\Debug\ImdbService.dll
+C:\Users\BA\Desktop\Repository\Imdb\ImdbUI\bin\Debug\ImdbData.pdb
+C:\Users\BA\Desktop\Repository\Imdb\ImdbUI\bin\Debug\ImdbData.dll.config
+C:\Users\BA\Desktop\Repository\Imdb\ImdbUI\bin\Debug\ImdbService.pdb
+C:\Users\BA\Desktop\Repository\Imdb\ImdbUI\bin\Debug\ImdbService.dll.config
+C:\Users\BA\Desktop\Repository\Imdb\ImdbUI\bin\Debug\EntityFramework.xml
+C:\Users\BA\Desktop\Repository\Imdb\ImdbUI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\BA\Desktop\Repository\Imdb\ImdbUI\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\BA\Desktop\Repository\Imdb\ImdbUI\bin\Debug\HtmlAgilityPack.xml
+C:\Users\BA\Desktop\Repository\Imdb\ImdbUI\obj\Debug\ImdbUI.csprojAssemblyReference.cache
+C:\Users\BA\Desktop\Repository\Imdb\ImdbUI\obj\Debug\ImdbUI.Form1.resources
+C:\Users\BA\Desktop\Repository\Imdb\ImdbUI\obj\Debug\ImdbUI.Form2.resources
+C:\Users\BA\Desktop\Repository\Imdb\ImdbUI\obj\Debug\ImdbUI.Form3.resources
+C:\Users\BA\Desktop\Repository\Imdb\ImdbUI\obj\Debug\ImdbUI.Properties.Resources.resources
+C:\Users\BA\Desktop\Repository\Imdb\ImdbUI\obj\Debug\ImdbUI.csproj.GenerateResource.cache
+C:\Users\BA\Desktop\Repository\Imdb\ImdbUI\obj\Debug\ImdbUI.csproj.CopyComplete
+C:\Users\BA\Desktop\Repository\Imdb\ImdbUI\obj\Debug\ImdbUI.exe
+C:\Users\BA\Desktop\Repository\Imdb\ImdbUI\obj\Debug\ImdbUI.pdb
+C:\Users\Emre Sert\Desktop\Repository\Repository\Imdb\ImdbUI\bin\Debug\App.config
+C:\Users\Emre Sert\Desktop\Repository\Repository\Imdb\ImdbUI\bin\Debug\ImdbUI.exe.config
+C:\Users\Emre Sert\Desktop\Repository\Repository\Imdb\ImdbUI\bin\Debug\ImdbUI.exe
+C:\Users\Emre Sert\Desktop\Repository\Repository\Imdb\ImdbUI\bin\Debug\ImdbUI.pdb
+C:\Users\Emre Sert\Desktop\Repository\Repository\Imdb\ImdbUI\bin\Debug\EntityFramework.dll
+C:\Users\Emre Sert\Desktop\Repository\Repository\Imdb\ImdbUI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Emre Sert\Desktop\Repository\Repository\Imdb\ImdbUI\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Emre Sert\Desktop\Repository\Repository\Imdb\ImdbUI\bin\Debug\ImdbData.dll
+C:\Users\Emre Sert\Desktop\Repository\Repository\Imdb\ImdbUI\bin\Debug\ImdbService.dll
+C:\Users\Emre Sert\Desktop\Repository\Repository\Imdb\ImdbUI\bin\Debug\ImdbData.pdb
+C:\Users\Emre Sert\Desktop\Repository\Repository\Imdb\ImdbUI\bin\Debug\ImdbData.dll.config
+C:\Users\Emre Sert\Desktop\Repository\Repository\Imdb\ImdbUI\bin\Debug\ImdbService.pdb
+C:\Users\Emre Sert\Desktop\Repository\Repository\Imdb\ImdbUI\bin\Debug\ImdbService.dll.config
+C:\Users\Emre Sert\Desktop\Repository\Repository\Imdb\ImdbUI\bin\Debug\EntityFramework.xml
+C:\Users\Emre Sert\Desktop\Repository\Repository\Imdb\ImdbUI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Emre Sert\Desktop\Repository\Repository\Imdb\ImdbUI\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Emre Sert\Desktop\Repository\Repository\Imdb\ImdbUI\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Emre Sert\Desktop\Repository\Repository\Imdb\ImdbUI\obj\Debug\ImdbUI.csprojAssemblyReference.cache
+C:\Users\Emre Sert\Desktop\Repository\Repository\Imdb\ImdbUI\obj\Debug\ImdbUI.Form1.resources
+C:\Users\Emre Sert\Desktop\Repository\Repository\Imdb\ImdbUI\obj\Debug\ImdbUI.Form2.resources
+C:\Users\Emre Sert\Desktop\Repository\Repository\Imdb\ImdbUI\obj\Debug\ImdbUI.Form3.resources
+C:\Users\Emre Sert\Desktop\Repository\Repository\Imdb\ImdbUI\obj\Debug\ImdbUI.Properties.Resources.resources
+C:\Users\Emre Sert\Desktop\Repository\Repository\Imdb\ImdbUI\obj\Debug\ImdbUI.csproj.GenerateResource.cache
+C:\Users\Emre Sert\Desktop\Repository\Repository\Imdb\ImdbUI\obj\Debug\ImdbUI.csproj.CoreCompileInputs.cache
+C:\Users\Emre Sert\Desktop\Repository\Repository\Imdb\ImdbUI\obj\Debug\ImdbUI.csproj.CopyComplete
+C:\Users\Emre Sert\Desktop\Repository\Repository\Imdb\ImdbUI\obj\Debug\ImdbUI.exe
+C:\Users\Emre Sert\Desktop\Repository\Repository\Imdb\ImdbUI\obj\Debug\ImdbUI.pdb
+C:\Users\BA\Desktop\Repository (1)\Repository\Repository\Imdb\ImdbUI\bin\Debug\App.config
+C:\Users\BA\Desktop\Repository (1)\Repository\Repository\Imdb\ImdbUI\bin\Debug\ImdbUI.exe.config
+C:\Users\BA\Desktop\Repository (1)\Repository\Repository\Imdb\ImdbUI\bin\Debug\ImdbUI.exe
+C:\Users\BA\Desktop\Repository (1)\Repository\Repository\Imdb\ImdbUI\bin\Debug\ImdbUI.pdb
+C:\Users\BA\Desktop\Repository (1)\Repository\Repository\Imdb\ImdbUI\bin\Debug\EntityFramework.dll
+C:\Users\BA\Desktop\Repository (1)\Repository\Repository\Imdb\ImdbUI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\BA\Desktop\Repository (1)\Repository\Repository\Imdb\ImdbUI\bin\Debug\HtmlAgilityPack.dll
+C:\Users\BA\Desktop\Repository (1)\Repository\Repository\Imdb\ImdbUI\bin\Debug\ImdbData.dll
+C:\Users\BA\Desktop\Repository (1)\Repository\Repository\Imdb\ImdbUI\bin\Debug\ImdbService.dll
+C:\Users\BA\Desktop\Repository (1)\Repository\Repository\Imdb\ImdbUI\bin\Debug\ImdbData.pdb
+C:\Users\BA\Desktop\Repository (1)\Repository\Repository\Imdb\ImdbUI\bin\Debug\ImdbData.dll.config
+C:\Users\BA\Desktop\Repository (1)\Repository\Repository\Imdb\ImdbUI\bin\Debug\ImdbService.pdb
+C:\Users\BA\Desktop\Repository (1)\Repository\Repository\Imdb\ImdbUI\bin\Debug\ImdbService.dll.config
+C:\Users\BA\Desktop\Repository (1)\Repository\Repository\Imdb\ImdbUI\bin\Debug\EntityFramework.xml
+C:\Users\BA\Desktop\Repository (1)\Repository\Repository\Imdb\ImdbUI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\BA\Desktop\Repository (1)\Repository\Repository\Imdb\ImdbUI\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\BA\Desktop\Repository (1)\Repository\Repository\Imdb\ImdbUI\bin\Debug\HtmlAgilityPack.xml
+C:\Users\BA\Desktop\Repository (1)\Repository\Repository\Imdb\ImdbUI\obj\Debug\ImdbUI.csprojAssemblyReference.cache
+C:\Users\BA\Desktop\Repository (1)\Repository\Repository\Imdb\ImdbUI\obj\Debug\ImdbUI.Form1.resources
+C:\Users\BA\Desktop\Repository (1)\Repository\Repository\Imdb\ImdbUI\obj\Debug\ImdbUI.Form2.resources
+C:\Users\BA\Desktop\Repository (1)\Repository\Repository\Imdb\ImdbUI\obj\Debug\ImdbUI.Form3.resources
+C:\Users\BA\Desktop\Repository (1)\Repository\Repository\Imdb\ImdbUI\obj\Debug\ImdbUI.Properties.Resources.resources
+C:\Users\BA\Desktop\Repository (1)\Repository\Repository\Imdb\ImdbUI\obj\Debug\ImdbUI.csproj.GenerateResource.cache
+C:\Users\BA\Desktop\Repository (1)\Repository\Repository\Imdb\ImdbUI\obj\Debug\ImdbUI.csproj.CopyComplete
+C:\Users\BA\Desktop\Repository (1)\Repository\Repository\Imdb\ImdbUI\obj\Debug\ImdbUI.exe
+C:\Users\BA\Desktop\Repository (1)\Repository\Repository\Imdb\ImdbUI\obj\Debug\ImdbUI.pdb

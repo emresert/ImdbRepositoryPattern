@@ -1,0 +1,37 @@
+C:\Users\BA\Desktop\Repository\Imdb\ImdbData\bin\Debug\App.config
+C:\Users\BA\Desktop\Repository\Imdb\ImdbData\bin\Debug\ImdbData.dll.config
+C:\Users\BA\Desktop\Repository\Imdb\ImdbData\bin\Debug\ImdbData.dll
+C:\Users\BA\Desktop\Repository\Imdb\ImdbData\bin\Debug\ImdbData.pdb
+C:\Users\BA\Desktop\Repository\Imdb\ImdbData\bin\Debug\EntityFramework.dll
+C:\Users\BA\Desktop\Repository\Imdb\ImdbData\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\BA\Desktop\Repository\Imdb\ImdbData\bin\Debug\EntityFramework.xml
+C:\Users\BA\Desktop\Repository\Imdb\ImdbData\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\BA\Desktop\Repository\Imdb\ImdbData\obj\Debug\ImdbData.csprojAssemblyReference.cache
+C:\Users\BA\Desktop\Repository\Imdb\ImdbData\obj\Debug\ImdbData.csproj.CopyComplete
+C:\Users\BA\Desktop\Repository\Imdb\ImdbData\obj\Debug\ImdbData.dll
+C:\Users\BA\Desktop\Repository\Imdb\ImdbData\obj\Debug\ImdbData.pdb
+C:\Users\Emre Sert\Desktop\Repository\Repository\Imdb\ImdbData\bin\Debug\App.config
+C:\Users\Emre Sert\Desktop\Repository\Repository\Imdb\ImdbData\bin\Debug\ImdbData.dll.config
+C:\Users\Emre Sert\Desktop\Repository\Repository\Imdb\ImdbData\bin\Debug\ImdbData.dll
+C:\Users\Emre Sert\Desktop\Repository\Repository\Imdb\ImdbData\bin\Debug\ImdbData.pdb
+C:\Users\Emre Sert\Desktop\Repository\Repository\Imdb\ImdbData\bin\Debug\EntityFramework.dll
+C:\Users\Emre Sert\Desktop\Repository\Repository\Imdb\ImdbData\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Emre Sert\Desktop\Repository\Repository\Imdb\ImdbData\bin\Debug\EntityFramework.xml
+C:\Users\Emre Sert\Desktop\Repository\Repository\Imdb\ImdbData\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Emre Sert\Desktop\Repository\Repository\Imdb\ImdbData\obj\Debug\ImdbData.csprojAssemblyReference.cache
+C:\Users\Emre Sert\Desktop\Repository\Repository\Imdb\ImdbData\obj\Debug\ImdbData.csproj.CoreCompileInputs.cache
+C:\Users\Emre Sert\Desktop\Repository\Repository\Imdb\ImdbData\obj\Debug\ImdbData.csproj.CopyComplete
+C:\Users\Emre Sert\Desktop\Repository\Repository\Imdb\ImdbData\obj\Debug\ImdbData.dll
+C:\Users\Emre Sert\Desktop\Repository\Repository\Imdb\ImdbData\obj\Debug\ImdbData.pdb
+C:\Users\BA\Desktop\Repository (1)\Repository\Repository\Imdb\ImdbData\bin\Debug\App.config
+C:\Users\BA\Desktop\Repository (1)\Repository\Repository\Imdb\ImdbData\bin\Debug\ImdbData.dll.config
+C:\Users\BA\Desktop\Repository (1)\Repository\Repository\Imdb\ImdbData\bin\Debug\ImdbData.dll
+C:\Users\BA\Desktop\Repository (1)\Repository\Repository\Imdb\ImdbData\bin\Debug\ImdbData.pdb
+C:\Users\BA\Desktop\Repository (1)\Repository\Repository\Imdb\ImdbData\bin\Debug\EntityFramework.dll
+C:\Users\BA\Desktop\Repository (1)\Repository\Repository\Imdb\ImdbData\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\BA\Desktop\Repository (1)\Repository\Repository\Imdb\ImdbData\bin\Debug\EntityFramework.xml
+C:\Users\BA\Desktop\Repository (1)\Repository\Repository\Imdb\ImdbData\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\BA\Desktop\Repository (1)\Repository\Repository\Imdb\ImdbData\obj\Debug\ImdbData.csprojAssemblyReference.cache
+C:\Users\BA\Desktop\Repository (1)\Repository\Repository\Imdb\ImdbData\obj\Debug\ImdbData.csproj.CopyComplete
+C:\Users\BA\Desktop\Repository (1)\Repository\Repository\Imdb\ImdbData\obj\Debug\ImdbData.dll
+C:\Users\BA\Desktop\Repository (1)\Repository\Repository\Imdb\ImdbData\obj\Debug\ImdbData.pdb
